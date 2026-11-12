@@ -64,6 +64,7 @@ htmlcov/
 data/raw/*.csv
 data/raw/*.gz
 data/raw/*.json
+data/processed/*.npz
 data/processed/*.db
 data/processed/*.sqlite3
 data/processed/*.sqlite
