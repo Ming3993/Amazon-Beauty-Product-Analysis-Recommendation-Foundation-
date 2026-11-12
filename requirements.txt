@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+implicit
+tqdm
+ipykernel
+jupyter
+psutil
+fastapi
+uvicorn
